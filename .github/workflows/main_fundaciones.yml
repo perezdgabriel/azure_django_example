@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'fundaciones'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02031999E6724EC38D12C83953660CA8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FFF6CFB24F3402FA1EDD46C1CDA33F4 }}
